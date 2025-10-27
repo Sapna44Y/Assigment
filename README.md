@@ -1,17 +1,63 @@
-# React + Vite
+# Salesforce Assignment - Portfolio Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📋 Project Overview
 
-Currently, two official plugins are available:
+This is a React-based assignment that replicates a Salesforce-inspired dashboard interface with two main widgets: a tabbed profile section and an interactive gallery. The application demonstrates modern React development practices with a focus on UI/UX design and responsive layout.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Live Demo & Repository
 
-## React Compiler
+- **Live Demo**: [Add your deployed link here]
+- **GitHub Repository**: [Add your repository link here]
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features Implemented
 
-## Expanding the ESLint configuration
+### 🏗️ Core Requirements
+- ✅ Built with React + Vite
+- ✅ Responsive design for laptop screens (≥768px)
+- ✅ Exact UI replication with proper padding, margins, and shadows
+- ✅ Two main widgets aligned perfectly
+- ✅ Left half of screen empty but responsive
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Assigment
+### 📑 Tabbed Widget
+- **Three Interactive Tabs**: About Me, Experiences, Recommended
+- **Clickable Navigation**: Smooth tab switching with visual indicators
+- **Rich Content**: 
+  - Personal profile information
+  - Professional experience timeline
+  - Technical skills with interactive tags
+  - Project portfolio with tech stacks
+- **Scrollable Content**: Fixed height with custom scrollbar
+- **Professional Styling**: Light theme with proper visual hierarchy
+
+### 🖼️ Gallery Widget
+- **Image Management**: Add, view, and delete images
+- **Upload Functionality**: Direct image upload from device
+- **Sample Images**: Option to add pre-loaded sample images
+- **Carousel Navigation**: Next/previous buttons for image sets
+- **Visual Indicators**: Dot navigation and image counter
+- **Hover Effects**: Grayscale to color transition with scale animation
+- **Responsive Grid**: Always shows exactly 3 images
+
+### 🎨 Design & UX
+- **Custom Dark Theme**: Professional color scheme
+- **Smooth Animations**: Hover effects and transitions
+- **Custom Scrollbars**: Styled to match the theme
+- **Interactive Elements**: Proper hover states and feedback
+- **Consistent Spacing**: Exact padding and margins as per design
+
+## 🛠️ Technologies Used
+
+### Frontend Framework
+- **React 18** - Modern React with hooks
+- **Vite** - Fast build tool and development server
+
+### Styling & UI
+- **Tailwind CSS** - Utility-first CSS framework
+- **Custom CSS** - Additional styles for scrollbars and animations
+
+### Development Tools
+- **ESLint** - Code linting and quality
+- **PostCSS** - CSS processing
+- **Autoprefixer** - CSS vendor prefixes
+
+## 📁 Project Structure
