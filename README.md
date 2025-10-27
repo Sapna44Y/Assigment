@@ -6,9 +6,8 @@ This is a React-based assignment that replicates a Salesforce-inspired dashboard
 
 ## 🎯 Live Demo & Repository
 
-- **Live Demo**: [Add your deployed link here]
-- **GitHub Repository**: [Add your repository link here]
-
+- **Live Demo**: https://assigment-self-eta.vercel.app/
+- **GitHub Repository**: https://github.com/Sapna44Y/Assigment
 ## ✨ Features Implemented
 
 ### 🏗️ Core Requirements
